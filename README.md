@@ -18,7 +18,7 @@ To import Lab Recorder, you need allow untrusted shortcuts. You can find the “
 ![Settings/Shortcuts](images/2020/06/settings-shortcuts.png)
 
 ### Import Lab Recorder
-By clicking the [Lab Recorder](https://www.icloud.com/shortcuts/01f1ab409daf4eb9964ccc242f624448), you can load it into the Shortcuts app. **Then you have to follow the instruction filling your information. (important)**
+By clicking the [Lab Recorder](https://www.icloud.com/shortcuts/1adb30e986e640049369fa4777c9cc61), you can load it into the Shortcuts app. **Then you have to follow the instruction filling your information. (important)**
 
 Now the “**Lab Recorder**” workflow should appears in the today widget, you can click it manually every time you arrive or leave the lab.
 Or long press the Lab Recorder in app, under share menu you can add it to your home screen.
